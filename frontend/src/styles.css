@@ -1,0 +1,11 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; background: #f7f7f7; }
+.app { max-width: 1100px; margin: 20px auto; padding: 20px; }
+header h1 { margin: 0 0 8px 0; }
+.movie-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+.movie-card { background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); overflow: hidden; display: flex; }
+.movie-card img { width: 140px; object-fit: cover; }
+.movie-info { padding: 12px; flex: 1; }
+.movie-info h2 { margin: 0 0 8px 0; }
+.reviews { margin-top: 8px; }
+.review { border-top: 1px solid #eee; padding-top: 8px; margin-top: 8px; }
+.add-review { margin-top: 10px; display: flex; }
