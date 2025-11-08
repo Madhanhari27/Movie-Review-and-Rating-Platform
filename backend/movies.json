@@ -1,0 +1,41 @@
+[
+{
+"id": "master",
+"title": "Master",
+"year": 2021,
+"poster": "https://upload.wikimedia.org/wikipedia/en/7/7e/Master_2021_poster.jpg",
+"reviews": [
+{"name": "Bharani", "rating": 4, "text": "Powerful performance and mass moments."},
+{"name": "Gowtham", "rating": 5, "text": "Vijay shines in the climax."}
+]
+},
+{
+"id": "beast",
+"title": "Beast",
+"year": 2022,
+"poster": "https://via.placeholder.com/220x330?text=Beast",
+"reviews": [
+{"name": "Jana", "rating": 3, "text": "Entertaining but could be tighter."}
+]
+},
+{
+"id": "sarkar",
+"title": "Sarkar",
+"year": 2018,
+"poster": "https://via.placeholder.com/220x330?text=Sarkar",
+"reviews": [
+{"name": "Madhan", "rating": 4, "text": "Political punch and mass scenes."}
+]
+},
+{
+"id": "Leo",
+"title": "Leo",
+"year": 2023,
+"poster": "https://via.placeholder.com/220x330?text=Leo",
+"reviews": [
+    {"name":"Kalidass", "rating": 5, "text": "Naatha da Leo..Leodass😈"},
+    {"name": "Jagankumar","rating": 5,"text": "Thalapathy Vijay delivers a stunning performance with Lokesh Kanagaraj's direction!"},
+    {"name": "Preethisha","rating": 5,"text": "Action-packed, stylish, and emotional — Leo is a must-watch for Vijay fans."}
+]
+}
+]
